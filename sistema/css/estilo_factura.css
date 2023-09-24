@@ -1,0 +1,86 @@
+
+
+  .imagen { 
+font:sans-serif;
+font-size: 11px; 
+font-weight: 400; 
+color: black; 
+
+text-align: center;
+margin-top: -35px;
+}
+
+
+  .cuadro { 
+font:sans-serif;
+font-size: 11px; 
+font-weight: 400; 
+color: black; 
+
+text-align: center;
+margin-top: -35px;
+}
+  .cuadro2 { 
+font:sans-serif;
+font-size: 11px; 
+font-weight: 400; 
+color: black; 
+
+text-align: center;
+margin-top: -40px;
+
+}
+  .cuadro3 { 
+font:sans-serif;
+font-size: 11px; 
+font-weight: 400; 
+color: black; 
+
+text-align: center;
+margin-top: -30px;
+
+}
+
+  .cuadro4 { 
+font:sans-serif;
+font-size: 11px; 
+font-weight: 400; 
+color: black; 
+
+text-align: center;
+margin-top: -30px;
+
+}
+
+  .donaciones_articulo{ 
+font:sans-serif;
+font-size: 11px; 
+font-weight: 400; 
+color: black; 
+
+text-align: center;
+
+}
+
+  .caja{ 
+font:sans-serif;
+font-size: 11px; 
+
+color: black; 
+
+text-align: right;
+margin-right:90px;
+
+}
+
+
+  .codigo_barra_centrado { 
+font:sans-serif;
+font-size: 100px; 
+font-weight: 400; 
+color: black; 
+
+
+margin-left: 300px;
+margin-right: 300px;
+}

@@ -1,0 +1,24 @@
+
+
+<!-- CSS INTERNO -->
+
+	
+	/*FOMRATO DE VISUALIZACIÓN TITULOS EN DATOS EMPRESA*/
+
+
+h6{
+	color: black;
+
+}
+/*FOMRATO DEL IMPUT*/
+.form-control{
+	
+	font-weight: bold;
+		color:  #1a222e ;
+}
+/*FOMRATO DE VISUALIZACIÓN TITULOS EN DATOS EMPRESA*/
+strong{
+	font-weight: bold;
+	color:  #1a222e ;
+}
+
