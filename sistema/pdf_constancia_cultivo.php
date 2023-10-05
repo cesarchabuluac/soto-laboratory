@@ -11,7 +11,7 @@ $dompdf = new Dompdf();
 // Le pasamos el html a dompdf
 $dompdf->loadHtml($html);
 // Colocamos als propiedades de la hoja
-$dompdf->setPaper("letter");
+$dompdf->setPaper("letter", "landscape");
 // Escribimos el html en el PDF
 $dompdf->render();
 // Ponemos el PDF en el browser
